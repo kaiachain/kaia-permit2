@@ -19,7 +19,7 @@ Permit2 introduces a low-overhead, next-generation token approval/meta-tx system
 The Permit2 contract is currently deployed on the following networks:
 
 - **Kaia Mainnet**: [0x000000000022d473030f116ddee9f6b43ac78ba3](https://kaiascan.io/address/0x000000000022d473030f116ddee9f6b43ac78ba3)
-- **Kaia Testnet**: [0x000000000022d473030f116ddee9f6b43ac78ba3](http://kairos.kaiascan.io/address/0x000000000022d473030f116ddee9f6b43ac78ba3)
+- **Kairos Testnet**: [0x000000000022d473030f116ddee9f6b43ac78ba3](http://kairos.kaiascan.io/address/0x000000000022d473030f116ddee9f6b43ac78ba3)
 
 ## Architecture
 
